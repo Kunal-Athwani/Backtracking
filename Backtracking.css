@@ -1,0 +1,12 @@
+pre{
+    color: rgb(116, 6, 6);
+    font-size: large;
+    margin: 10px 10px ;
+}
+code{
+    color:rgb(116, 6, 6);
+    font-size: x-large;
+}
+.tcolor{
+    background-color: grey;
+}
